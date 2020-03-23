@@ -4,3 +4,9 @@ The system will give agricultural product's price information to farmers and con
 
 # from you adviser:
 can you clearly mention what development tools used in for this project?
+
+# we are using :
+               backend - node express
+               front end - react app
+               mobile app - react native
+               database - mySql
